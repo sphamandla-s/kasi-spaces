@@ -10,8 +10,8 @@ function Features() {
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
         </p>
         <div className=' grid sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-20'>
-            {PROPERTY_TYPE_dummy_data.map((property)=>(
-                <PropertyCard {...property} />
+            {PROPERTY_TYPE_dummy_data.map((property, index)=>(
+                <PropertyCard {...property} key={index} />
             ))}
         </div>
     </section>
