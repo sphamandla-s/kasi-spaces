@@ -8,7 +8,7 @@ function NavBar() {
     return (
         <header className='fixed w-screen px-4 top-2 z-50'>
             <nav className=' p-3 container flex items-center justify-between bg-background rounded-md z-50'>
-                <h1>Kasi Spaces</h1>
+                <h1 className=' font-semibold italic'>Kasi Spaces</h1>
 
                 <ul className=' hidden lg:flex items-center gap-4'>
                     {NAV_LINKS.map((link) => (

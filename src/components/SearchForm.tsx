@@ -92,7 +92,7 @@ function SearchForm() {
             </FormItem>
           )}
         />
-        <Button type="submit" className=" col-start-1 col-end-[-1]">Submit</Button>
+        <Button type="submit" className=" col-start-1 col-end-[-1]">Search</Button>
       </form>
     </Form>
   )
