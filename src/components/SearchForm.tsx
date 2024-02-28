@@ -49,7 +49,7 @@ function SearchForm() {
             <FormItem>
               <FormLabel>Location</FormLabel>
               <FormControl>
-                <Input placeholder="Search by location" {...field} className="bg-grey-50 h-[54px] focus-visible:ring-offset-0 placeholder:text-grey-500  p-regular-16 px-4 py-3 focus-visible:ring-transparent" />
+                <Input placeholder="Search by location" {...field} className="bg-grey-50  focus-visible:ring-offset-0 placeholder:text-grey-500  p-regular-16 px-4 py-3 focus-visible:ring-transparent" />
               </FormControl>
             </FormItem>
           )}
@@ -75,7 +75,7 @@ function SearchForm() {
             <FormItem>
               <FormLabel>Min Price</FormLabel>
               <FormControl>
-                <Input type="number" placeholder="Minimum Price" {...field} className="bg-grey-50 h-[54px] focus-visible:ring-offset-0 placeholder:text-grey-500  p-regular-16 px-4 py-3 focus-visible:ring-transparent" />
+                <Input type="number" placeholder="Minimum Price" {...field} className="bg-grey-50  focus-visible:ring-offset-0 placeholder:text-grey-500  p-regular-16 px-4 py-3 focus-visible:ring-transparent" />
               </FormControl>
             </FormItem>
           )}
@@ -87,7 +87,7 @@ function SearchForm() {
             <FormItem>
               <FormLabel>Max Price</FormLabel>
               <FormControl>
-                <Input type="number" placeholder="Maximum Price" {...field} className="bg-grey-50 h-[54px] focus-visible:ring-offset-0 placeholder:text-grey-500  p-regular-16 px-4 py-3 focus-visible:ring-transparent" />
+                <Input type="number" placeholder="Maximum Price" {...field} className="bg-grey-50  focus-visible:ring-offset-0 placeholder:text-grey-500  p-regular-16 px-4 py-3 focus-visible:ring-transparent" />
               </FormControl>
             </FormItem>
           )}

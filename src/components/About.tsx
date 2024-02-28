@@ -4,7 +4,7 @@ import { Button } from './ui/button'
 
 function About() {
   return (
-    <section className=' container pt-20 pb-32 grid lg:grid-cols-2 gap-10'>
+    <section className=' container pt-20 pb-32 grid lg:grid-cols-2 gap-10 items-center'>
       <div>
         <div className=' relative h-fit w-fit'>
           <Image src='/patrick-ward-bVovHygDlJI-unsplash.jpg'

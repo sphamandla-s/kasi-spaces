@@ -16,7 +16,7 @@ type DropdownProps = {
 function Dropdown({ selectList, selectType }: DropdownProps) {
   return (
     <Select>
-      <SelectTrigger className="w-full bg-grey-50 h-[54px] placeholder:text-grey-500  p-regular-16 px-5 py-3  focus-visible:ring-transparent focus:ring-transparent">
+      <SelectTrigger className="w-full bg-grey-50  placeholder:text-grey-500  p-regular-16 px-5 py-3  focus-visible:ring-transparent focus:ring-transparent">
         <SelectValue placeholder={selectType} />
       </SelectTrigger>
       <SelectContent>
