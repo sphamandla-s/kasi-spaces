@@ -196,93 +196,50 @@ export const products = [
         title: "Moonbeam",
         link: "https://gomoonbeam.com",
         thumbnail:
-            "https://aceternity.com/images/products/thumbnails/new/moonbeam.png",
+            "https://images.unsplash.com/photo-1562181839-486fa3d613b5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c291dGglMjBhZnJpY2ElMjB0b3duc2hpcHxlbnwwfHwwfHx8MA%3D%3D",
     },
     {
         title: "Cursor",
         link: "https://cursor.so",
         thumbnail:
-            "https://aceternity.com/images/products/thumbnails/new/cursor.png",
+            "https://images.unsplash.com/photo-1611501365499-fd1ca51e12ae?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHNvdXRoJTIwYWZyaWNhJTIwdG93bnNoaXB8ZW58MHx8MHx8fDA%3D"
     },
     {
         title: "Rogue",
         link: "https://userogue.com",
         thumbnail:
-            "https://aceternity.com/images/products/thumbnails/new/rogue.png",
+            "https://images.unsplash.com/photo-1640531782496-da1a30f88256?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHNvdXRoJTIwYWZyaWNhJTIwcmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D"
     },
 
     {
         title: "Editorially",
         link: "https://editorially.org",
         thumbnail:
-            "https://aceternity.com/images/products/thumbnails/new/editorially.png",
+            "https://images.unsplash.com/photo-1599407383724-ba5d608b7809?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c291dGglMjBhZnJpY2ElMjBob3VzZXN8ZW58MHx8MHx8fDA%3D"
     },
     {
         title: "Editrix AI",
         link: "https://editrix.ai",
         thumbnail:
-            "https://aceternity.com/images/products/thumbnails/new/editrix.png",
+            "https://images.unsplash.com/photo-1562181839-486fa3d613b5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c291dGglMjBhZnJpY2ElMjB0b3duc2hpcHxlbnwwfHwwfHx8MA%3D%3D",
     },
     {
         title: "Pixel Perfect",
         link: "https://app.pixelperfect.quest",
         thumbnail:
-            "https://aceternity.com/images/products/thumbnails/new/pixelperfect.png",
+            "https://images.unsplash.com/photo-1669102903247-0b34ec4be5af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHNvdXRoJTIwYWZyaWNhJTIwaG91c2VzfGVufDB8fDB8fHww"
     },
 
     {
         title: "Algochurn",
         link: "https://algochurn.com",
         thumbnail:
-            "https://aceternity.com/images/products/thumbnails/new/algochurn.png",
+            "https://images.unsplash.com/photo-1604614765191-02ea6bdb941b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c293ZXRvfGVufDB8fDB8fHww"
     },
     {
         title: "Aceternity UI",
         link: "https://ui.aceternity.com",
         thumbnail:
-            "https://aceternity.com/images/products/thumbnails/new/aceternityui.png",
-    },
-    {
-        title: "Tailwind Master Kit",
-        link: "https://tailwindmasterkit.com",
-        thumbnail:
-            "https://aceternity.com/images/products/thumbnails/new/tailwindmasterkit.png",
-    },
-    {
-        title: "SmartBridge",
-        link: "https://smartbridgetech.com",
-        thumbnail:
-            "https://aceternity.com/images/products/thumbnails/new/smartbridge.png",
-    },
-    {
-        title: "Renderwork Studio",
-        link: "https://renderwork.studio",
-        thumbnail:
-            "https://aceternity.com/images/products/thumbnails/new/renderwork.png",
-    },
-
-    {
-        title: "Creme Digital",
-        link: "https://cremedigital.com",
-        thumbnail:
-            "https://aceternity.com/images/products/thumbnails/new/cremedigital.png",
-    },
-    {
-        title: "Golden Bells Academy",
-        link: "https://goldenbellsacademy.com",
-        thumbnail:
-            "https://aceternity.com/images/products/thumbnails/new/goldenbellsacademy.png",
-    },
-    {
-        title: "Invoker Labs",
-        link: "https://invoker.lol",
-        thumbnail:
-            "https://aceternity.com/images/products/thumbnails/new/invoker.png",
-    },
-    {
-        title: "E Free Invoice",
-        link: "https://efreeinvoice.com",
-        thumbnail:
-            "https://aceternity.com/images/products/thumbnails/new/efreeinvoice.png",
+            "https://images.unsplash.com/photo-1526583547718-e88dc16de312?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c293ZXRvfGVufDB8fDB8fHww"
     },
 ];

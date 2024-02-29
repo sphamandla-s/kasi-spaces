@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+
+
+
 @layer base {
   :root {
     --background: 0 0% 100%;
@@ -82,4 +86,11 @@
   background-image: linear-gradient(to top, rgba(0, 0,0, 0.7), rgba(0, 0,0, 0.5)), url('../../public/devon-janse-van-rensburg-RAAXmcYdoIg-unsplash.jpg');
   background-size: cover;
   background-position: 30%;
+}
+
+.kode-mono-logo {
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
 }
