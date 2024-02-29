@@ -41,7 +41,7 @@ function SearchForm() {
 
   return (
     <Form {...form}>
-      <form onSubmit={form.handleSubmit(onSubmit)} className=" p-6 w-full grid sm:grid-col-2 lg:grid-cols-4 gap-6 items-end bg-background rounded">
+      <form onSubmit={form.handleSubmit(onSubmit)} className=" p-6 w-full grid sm:grid-col-2 lg:grid-cols-4 gap-6 items-end bg-background rounded mt-8">
         <FormField
           control={form.control}
           name="location"

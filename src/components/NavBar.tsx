@@ -3,6 +3,7 @@ import { Menu } from 'lucide-react'
 import Link from 'next/link'
 import React from 'react'
 import { Sheet, SheetContent, SheetTrigger } from './ui/sheet'
+import { MovingBorderBtn } from './shared/MovingBorderBtn'
 
 function NavBar() {
     return (
@@ -21,7 +22,8 @@ function NavBar() {
 
                 </ul>
 
-                <p>List Now</p>
+                <MovingBorderBtn title={'List Now'} />
+
                 <div className=' md:hidden'>
                     <Sheet>
                         <SheetTrigger> <Menu /></SheetTrigger>
