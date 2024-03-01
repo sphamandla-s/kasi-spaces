@@ -28,7 +28,7 @@ function About() {
         <p className=' text-muted-foreground mb-4'>
           Kasi Spaces is a pioneering real estate management platform built with the specific needs
           of property owners, managers, and professionals in mind. We understand the challenges of
-          juggling multiple tasks and maintaining efficient operations. That's why we offer a
+          juggling multiple tasks and maintaining efficient operations. That is why we offer a
           comprehensive and user-friendly solution that streamlines everyday tasks, automates
           workflows, and empowers you to focus on what matters most your success.
           Our scalable platform adapts to your growing portfolio, whether you have a
