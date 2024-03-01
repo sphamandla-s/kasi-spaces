@@ -193,7 +193,7 @@ export const PROPERTY_TYPE_dummy_data = [
 
 export const products = [
     {
-        title: "Moonbeam",
+        title: "Moon",
         link: "https://gomoonbeam.com",
         thumbnail:
             "https://images.unsplash.com/photo-1562181839-486fa3d613b5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c291dGglMjBhZnJpY2ElMjB0b3duc2hpcHxlbnwwfHwwfHx8MA%3D%3D",
