@@ -30,7 +30,7 @@ function About() {
           of property owners, managers, and professionals in mind. We understand the challenges of
           juggling multiple tasks and maintaining efficient operations. That's why we offer a
           comprehensive and user-friendly solution that streamlines everyday tasks, automates
-          workflows, and empowers you to focus on what matters most – your success.
+          workflows, and empowers you to focus on what matters most your success.
           Our scalable platform adapts to your growing portfolio, whether you have a
           few properties or a large-scale operation. We equip you with the tools and
           insights needed to maximize efficiency, optimize profitability, and make
